@@ -275,8 +275,8 @@ Understanding REST APIs enables:
 
 # References
 
-Greene County GIS OpenData MapServer:
-https://gis.greenecountyohio.gov/webgis2/rest/services/OpenData/OpenData/MapServer
-
 Greene County GIS Data Hub:
 https://gishub-gimsoh29.opendata.arcgis.com
+
+Greene County GIS OpenData MapServer:
+https://gis.greenecountyohio.gov/webgis2/rest/services/OpenData/OpenData/MapServer
